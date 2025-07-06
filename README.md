@@ -5,21 +5,21 @@
 
 - 🔭 I’m currently working on **Laravel & Flutter Projects**
 - 🌱 I’m currently learning **Tableau & IoT**
-- 📫 How to reach me: **candra@example.com**
+- 📫 How to reach me: **...**
 
-### 🚀 Skills
+### Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,js,nodejs,html,css,tailwind,mysql,git,github" />
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=candraega&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candraega&layout=compact&theme=radical" width="48%" />
 </p>
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <picture>
   <source
