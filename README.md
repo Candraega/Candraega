@@ -48,3 +48,6 @@ Let's Connect
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=candraega)
+
