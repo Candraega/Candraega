@@ -3,9 +3,7 @@
   <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="250">
 </p>
 
-- 🔭 I’m currently working on **Laravel & Flutter Projects**
-- 🌱 I’m currently learning **Tableau & IoT**
-- 📫 How to reach me: **...**
+Hi! I'm Candraega, a backend developer with a strong interest in web application development and system integration. I'm passionate about exploring new technologies, especially those related to Laravel, REST APIs, and the Internet of Things (IoT). This repository showcases my learning journey and various projects—personal, academic, and collaborative. Feel free to explore and connect if you're interested in discussing or collaborating!
 
 ### Skills
 
