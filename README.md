@@ -14,9 +14,10 @@ Hi! I'm Candraega, a backend developer with a strong interest in web application
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=candraega&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candraega&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=candraega&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candraega&layout=compact&theme=radical" width="49%" />
 </p>
+
 
 
 <picture>
