@@ -7,9 +7,16 @@ Hi! I'm Candraega, a backend developer with a strong interest in web application
 
 ### Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,js,nodejs,html,css,tailwind,mysql,git,github" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=candraega&show_icons=true&theme=radical" height="200px" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candraega&layout=compact&theme=radical" height="200px" />
+    </td>
+  </tr>
+</table>
 
 ### GitHub Stats
 
