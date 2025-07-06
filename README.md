@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Candra Wahyu</h1>
+<h1 align="center">Hi, I'm Candra Wahyu</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="250"><br/>
     <img src="https://visitor-badge.glitch.me/badge?page_id=candraega" alt="visitor badge"/>
@@ -32,9 +32,9 @@ Hi! I'm Candraega, a backend developer with a strong interest in web application
 Let's Connect
 
 <p align="left">
-  <a href="mailto:your_email@example.com" target="_blank"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/your_instagram/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:candraega28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/candra-wahyu-perdana-7204a1278/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/candra_two/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 
