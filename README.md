@@ -25,6 +25,13 @@ Hi! I'm Candraega, a backend developer with a strong interest in web application
   </tr>
 </table>
 
+Let's Connect
+
+<p align="left">
+  <a href="mailto:your_email@example.com" target="_blank"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/your_instagram/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 
 <picture>
