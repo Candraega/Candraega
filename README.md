@@ -17,7 +17,7 @@ Hi! I'm Candraega, a backend developer with a strong interest in web application
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=candraega&show_icons=true&theme=radical" height="200px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=candraega&show_icons=true&theme=radical" height="150px" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candraega&layout=compact&theme=radical" height="200px" />
