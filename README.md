@@ -6,6 +6,13 @@
 Hi! I'm Candraega, a backend developer with a strong interest in web application development and system integration. I'm passionate about exploring new technologies, especially those related to Laravel, REST APIs, and the Internet of Things (IoT). This repository showcases my learning journey and various projects—personal, academic, and collaborative. Feel free to explore and connect if you're interested in discussing or collaborating!
 
 ### Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,js,nodejs,html,css,tailwind,mysql,git,github" />
+</p>
+
+
+
+### GitHub Stats
 
 <table align="center">
   <tr>
@@ -17,13 +24,6 @@ Hi! I'm Candraega, a backend developer with a strong interest in web application
     </td>
   </tr>
 </table>
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=candraega&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candraega&layout=compact&theme=radical" width="49%" />
-</p>
 
 
 
