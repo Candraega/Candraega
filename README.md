@@ -11,7 +11,8 @@ Hi! I'm Candraega, a backend developer with a strong interest in web application
 
 ### Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,js,nodejs,html,css,tailwind,mysql,git,github,tableau,java" />
+  <img src="https://skillicons.dev/icons?i=php,dart,py,js,nodejs,html,css,tailwind,mysql,mongodb,git,github,figma,gitlab,java" />
+  <img src="https://skillicons.dev/icons?i=adonis,laravel,flutter," />
 </p>
 
 
