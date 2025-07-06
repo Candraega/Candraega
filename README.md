@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Candra Wahyu</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="250"><br/>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=candraega" alt="visitor badge"/>
+
 </p>
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=candraega)
 
 
 
